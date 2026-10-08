@@ -83,7 +83,7 @@ Latest verification: **33 tests passed, 154 assertions, 0 failures**. Blade comp
 
 ## Screenshots and assessment documents
 
-Real Chrome screenshots from the running app are in [screenshots/](screenshots/README.md). The sample tasks were created through the UI for verification and removed afterward; they are not mandatory seed data. Screenshot dates reflect the capture date, not hardcoded application behavior.
+Real Chrome screenshots from the running app are in [screenshots/](assessment/screenshot/). The sample tasks were created through the UI for verification and removed afterward; they are not mandatory seed data. Screenshot dates reflect the capture date, not hardcoded application behavior.
 
 - [Initial prompt](assessment/prompt.md): preserved byte-for-byte during implementation.
 - [Rules](assessment/rules.md): authoritative scope and behavior.
