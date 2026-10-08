@@ -87,6 +87,6 @@ Real Chrome screenshots from the running app are in [Assessment screenshots](ass
 
 - [Initial prompt](assessment/prompt.md): preserved byte-for-byte during implementation.
 - [Rules](assessment/rules.md): authoritative scope and behavior.
-- `reflection.md`: **still to be written/reviewed by the candidate**, maximum 500 words. Cover your problem breakdown, actual AI mistakes/corrections, decisions you did not delegate, and future improvements. No personal reflection has been invented for you.
+- [AI Usage Reflection](assessment/reflection.md): Candidate's reflection addressing all four required questions, within the 500-word limit.
 
 The app is a local assessment, without authentication. Production deployment and the excluded features listed in the rules are outside this implementation.
