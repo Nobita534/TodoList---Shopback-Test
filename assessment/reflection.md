@@ -14,4 +14,4 @@ I kept responsibility for defining the product scope, task fields, scheduling ru
 
 ## 4. What would you do differently with more time?
 
-I would expand PHPUnit coverage for boundary dates, validation errors, task rescheduling, and week navigation. I would also run more systematic manual tests on different screen sizes, improve form feedback and accessibility, and document test cases alongside screenshots. I would prioritize reliability and clarity over adding features outside the assessment scope.
+I would perform more systematic end-to-end testing across browsers and screen sizes, including keyboard-only navigation and accessibility checks. I would also improve the clarity of validation messages and document manual test scenarios alongside the screenshots. I would prioritize reliability and usability rather than adding features outside the assessment scope.
